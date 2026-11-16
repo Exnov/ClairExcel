@@ -1,0 +1,19 @@
+
+# Environnement virtuel
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Résultats générés
+outputs/*
+!outputs/.gitkeep
+
+# Configuration locale
+.env
